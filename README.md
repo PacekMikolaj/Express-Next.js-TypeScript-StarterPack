@@ -1,4 +1,4 @@
-# 🚀 Express + Next.js + Typescript StarterPack!
+# 🚀 Express + Next.js + Typescript starter pack!
 
 This starter pack includes:
 
